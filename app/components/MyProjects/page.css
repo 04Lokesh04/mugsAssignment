@@ -1,0 +1,75 @@
+.projectsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 40px;
+    width: 100%;
+    padding: 75px;
+}
+
+.projectsheading{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.projectspara{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 21px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.btnlist{
+    list-style-type: none;
+}
+
+.projectbutton{
+    background-color: #F8F8F8;
+    border: 0px;
+    border-radius: 12px;
+    height: 70px;
+    width: 120px;
+    color: #000000;
+    font-size: 24px;
+    font-family: 'Poppins';
+}
+
+.projectbutton1{
+    background-color:#FD6F00;
+    border: 0px ;
+    border-radius: 12px;
+    height: 70px;
+    width: 150px;
+    color:#FFFFFF;
+    font-size: 24px;
+    font-family: 'Poppins';
+}
+
+.projectslist{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 100%;
+}
+
+.projectimage{
+    height: 100%;
+    width: 32%;
+    margin-right: 20px;
+}

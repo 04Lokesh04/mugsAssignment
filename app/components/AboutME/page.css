@@ -1,0 +1,85 @@
+.AboutMain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 75px;
+    width: 100%;
+}
+
+.aboutImagescard{
+    height: 617.24px;
+    width: 50%;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.aboutimagebg3{
+    background-image: url('/images/Background copy 2.png');
+    height:40%;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.aboutimage{
+    height: 83px;
+    width: 255px;
+}
+
+.aboutimagebg1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url('/images/Ellipse 4.png');
+    height: 75%;
+    width: 95%;
+    background-size: cover;
+    padding-right: 10px;
+}
+
+.aboutimagebg2{
+    background-image:url('/images/Background copy 1.png');
+    height: 85%;
+    width: 100%;
+    background-size: cover;
+}
+
+.aboutText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 50%;
+    height: 100%;
+    margin-left: 45px;
+}
+
+.AboutHeading{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.AboutPara{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 21px;
+    margin-bottom: 15px;
+}
+
+.aboutimage2{
+    height: 349px;
+    width: 70%;
+    margin-top: 50px;
+}

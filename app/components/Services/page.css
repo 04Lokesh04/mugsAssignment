@@ -1,0 +1,31 @@
+.ServicesContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 40px;
+    width: 100%;
+    padding: 75px;
+}
+
+.serviceHeading{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.servicepara{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 21px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.serviceimg{
+    height: 45%;
+    width: 90%;
+    margin-left: 60px;
+}

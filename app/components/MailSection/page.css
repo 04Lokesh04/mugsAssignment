@@ -1,0 +1,59 @@
+.MailContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 40px;
+    width: 100%;
+    padding: 75px;
+}
+
+.MailHEading{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.Mailpara{
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 21px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.MailInput{
+    height: 75px;
+    width: 100%;
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    background-color: #F8F8F8;
+    height: 100%;
+    width: 620px;
+    color: #AFAFAF;
+    border: 1px #AFAFAF solid;
+    border-radius: 14px;
+    padding: 25px;
+    font-size: 21px;
+    font-family: "poppins";
+    margin-right: 30px;
+}
+
+.inputbutton{
+    background-color: #FD6F00;
+    color: #ffffff;
+    font-size: 21px;
+    font-family: "poppins";
+    border: 0px;
+    border-radius: 5px;
+    height: 100%;
+    width: 180px;
+}

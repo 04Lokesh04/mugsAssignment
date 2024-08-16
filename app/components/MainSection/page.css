@@ -1,0 +1,181 @@
+.MainContainer{
+    background-color: transparent;
+    height: 886.48px;
+    width: 1400px;
+    display: flex;
+    flex-direction: column;
+    padding: 75px;
+
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 88.48px;
+    width: 1400px;
+    margin-bottom: 25px;
+}
+
+.mainLogo{
+    height: 65px;
+    width: 195px;
+}
+
+.sections{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    padding-right: 25px;
+}
+
+.section{
+    list-style-type: none;
+    color:#000000;
+    font-family: "poppins";
+    font-size: 21px;
+}
+
+.navBtn{
+    background-color: #FD6F00;
+    color: #ffffff;
+    font-size: 21px;
+    font-family: "poppins";
+    border: 0px;
+    border-radius: 5px;
+    height: 62px;
+    width: 180px;
+}
+
+.HomeCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    width: 100%;
+}
+
+.textCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 50%;
+    height: 100%;
+    margin-right: 45px;
+}
+
+.Homeheading{
+    color: #000000;
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-family: 'poppins';
+}
+
+.Homepara{
+    color: #FD6F00;
+    margin-bottom: 7px;
+    font-size: 20px;
+    font-family: 'poppins';
+}
+
+.Homepara2{
+    color: #000000;
+    margin-bottom: 5px;
+    font-size: 64px;
+    font-family: 'poppins';
+}
+
+.Homepara3{
+    color: #000000;
+    margin-bottom: 15px;
+    font-size: 64px;
+    font-weight: 700;
+    font-family: 'poppins';
+    align-self: flex-end;
+}
+
+.Homepara4{
+    color: #000000;
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-family: 'poppins';
+}
+
+.hirebutttton{
+    background-color: #FD6F00;
+    color: #ffffff;
+    font-size: 21px;
+    font-family: "poppins";
+    border: 0px;
+    border-radius: 5px;
+    height: 52px;
+    width: 180px;
+}
+
+.imageCard{
+    height: 617.24px;
+    width: 50%;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imagebg1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url('/images/Ellipse 4.png');
+    height: 75%;
+    width: 95%;
+    background-size: cover;
+    padding-right: 10px;
+    
+}
+
+.imagebg2{
+    
+    background-image:url('/images/Layer 0 copy 3.png');
+    height: 85%;
+    width: 100%;
+    background-size: cover;
+}
+
+.imagebg3{
+    background-image: url('/images/Layer 0 copy 4.png');
+    height:40%;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.image1{
+    height: 83px;
+    width: 255px;
+}
+
+.iconslist{
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+}
+
+.icon{
+    list-style-type: none;
+    margin: 5px;
+}
+
+.iconimage{
+    height: 33px;
+    width: 33px;
+}
